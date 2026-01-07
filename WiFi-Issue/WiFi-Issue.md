@@ -32,6 +32,9 @@ Re-enabled adapter and reconnected user to the network.
 - ipconfig / ping
 - Windows Network Troubleshooter
 
+# 📸 Screenshot
+- [WiFi Screenshot](./screenshot_wifi.png)
+
 # Key Skills Demonstrated
 - Windows OS troubleshooting
 - Basic networking understanding
