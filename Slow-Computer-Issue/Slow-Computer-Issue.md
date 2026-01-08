@@ -37,6 +37,11 @@ Optimized startup applications, freed disk space, installed updates, and user co
 - Settings → Apps & Features
 - Windows Update
 
+# 📸 Screenshot
+![Task Manager](screenshots/Screenshot-resource-usage.png)
+![Startup Apps](screenshots/Screenshot-disabling-unused-apps.png)
+![Windows Update](screenshots/Screenshot-windows-update.png)
+
 # Key Skills Demonstrated
 - Windows OS performance diagnosis
 - Memory and CPU usage monitoring
